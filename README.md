@@ -6,6 +6,16 @@ Segundo projeto do repositório, feito para praticar funções, tipos numéricos
  
 ---
  
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/conversor-temperaturas-demo.gif" alt="Conversões entre Celsius, Fahrenheit e Kelvin, recusando temperaturas abaixo do zero absoluto" />
+</p>
+
+<p align="center"><i>Conversões entre Celsius, Fahrenheit e Kelvin, recusando temperaturas abaixo do zero absoluto.</i></p>
+
+---
+
 ## ✨ Funcionalidades
  
 - **Celsius → Fahrenheit**
